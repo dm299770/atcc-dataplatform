@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>org.t-io</groupId>
+        <artifactId>tio-parent</artifactId>
+        <version>3.1.0.v20180705-RELEASE</version>
+
+    </parent>
+
+    <groupId>com.acv.cloud</groupId>
+    <artifactId>atcc-dataplatform</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0</version>
+
+    <properties>
+        <slf4j.log4j.version>1.7.25</slf4j.log4j.version>
+    </properties>
+
+    <modules>
+        <module>atcc-dataplatfom-common</module>
+        <module>atcc-dataplatform-gatway</module>
+        <module>atcc-dataplatform-client</module>
+    </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.t-io</groupId>
+            <artifactId>tio-core</artifactId>
+        </dependency>
+
+
+    </dependencies>
+
+</project>
