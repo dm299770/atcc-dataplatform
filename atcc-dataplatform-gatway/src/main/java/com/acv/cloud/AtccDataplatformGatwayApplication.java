@@ -1,5 +1,6 @@
 package com.acv.cloud;
 
+import com.acv.cloud.server.NettyServer;
 import com.acv.cloud.server.TspServerStarter;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -13,6 +14,7 @@ public class AtccDataplatformGatwayApplication {
 
         TspServerStarter tspServerStarter = new TspServerStarter();
         tspServerStarter.start();
+        //NettyServer.start();
     }
 
 }

@@ -39,19 +39,23 @@ public abstract class TspAbsAioHandler implements AioHandler {
 
         int neededLength = TspPacket.HEADER_LENGHT + bodyLength;
         int test = readableLength - neededLength;
-        if (test < 0) // 不够消息体长度(剩下的buffe组不了消息体)
-        {
-            return null;
-        } else {
-            TspPacket imPacket = new TspPacket();
-            imPacket.setType(type);
-            if (bodyLength > 0) {
-                byte[] dst = new byte[bodyLength];
-                buffer.get(dst);
-                imPacket.setBody(dst);
-            }
-            return imPacket;
+
+        TspPacket imPacket = new TspPacket();
+        imPacket.setType(type);
+        if (bodyLength > 0) {
+            byte[] dst = new byte[bodyLength];
+            buffer.get(dst);
+            imPacket.setBody(dst);
         }
+        return imPacket;
+
+//        if (test < 0) // 不够消息体长度(剩下的buffe组不了消息体)
+//        {
+//            return null;
+//        } else {
+//
+//            return imPacket;
+//        }
     }
 
     /**
@@ -61,8 +65,8 @@ public abstract class TspAbsAioHandler implements AioHandler {
      */
     @Override
     public ByteBuffer encode(Packet packet, GroupContext groupContext, ChannelContext channelContext) {
-        TspPacket showcasePacket = (TspPacket) packet;
-        byte[] body = showcasePacket.getBody();
+        TspPacket tspPacket = (TspPacket) packet;
+        byte[] body = tspPacket.getBody();
         int bodyLen = 0;
         if (body != null) {
             bodyLen = body.length;
@@ -75,7 +79,7 @@ public abstract class TspAbsAioHandler implements AioHandler {
         buffer.order(groupContext.getByteOrder());
 
         //写入消息类型
-        buffer.put(showcasePacket.getType());
+        buffer.put(tspPacket.getType());
         //写入消息体长度
         buffer.putInt(bodyLen);
 
