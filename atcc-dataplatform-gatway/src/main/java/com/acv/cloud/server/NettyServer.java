@@ -33,6 +33,7 @@ public class NettyServer {
                                 System.out.println(msg);
                             }
                         });
+
                     }
                 })
                 .bind(5678);

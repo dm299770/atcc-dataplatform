@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68937421-775b-453e-84bb-0c224261dbd3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/java/com/acv/cloud/server/NettyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/java/com/acv/cloud/server/NettyServer.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <ignored path="$PROJECT_DIR$/atcc-dataplatfom-common/target/" />
+    <ignored path="$PROJECT_DIR$/atcc-dataplatform-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/atcc-dataplatform-gatway/target/" />
+    <ignored path="$PROJECT_DIR$/atcc-dataplatform-client/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1474426529">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="6" />
+          <entry key="java" value="60" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="11" />
+          <entry key="yml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="6" />
+          <entry key="JAVA" value="60" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="11" />
+          <entry key="YAML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2304" />
+          <entry key="properties" value="12" />
+          <entry key="xml" value="161" />
+          <entry key="yml" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2304" />
+          <entry key="Properties" value="12" />
+          <entry key="XML" value="161" />
+          <entry key="YAML" value="33" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-159713956">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="24" />
+          <entry key="java" value="21" />
+          <entry key="xml" value="2" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="24" />
+          <entry key="JAVA" value="21" />
+          <entry key="XML" value="2" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="221" />
+          <entry key="txt" value="26" />
+          <entry key="xml" value="5" />
+          <entry key="yml" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="221" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="XML" value="5" />
+          <entry key="YAML" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/handler/TspAbsAioHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/java/com/acv/cloud/server/NettyServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+              <folding>
+                <element signature="e#871#1433#0" expanded="true" />
+                <element signature="e#1432#1433#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/t-io/tio-core/3.1.0.v20180705-RELEASE/tio-core-3.1.0.v20180705-RELEASE.jar!/org/tio/core/ReadCompletionHandler.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1729">
+              <caret line="101" selection-start-line="101" selection-end-line="101" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/1.8/jdk8/jre/lib/rt.jar!/sun/nio/ch/Invoker.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/1.8/jdk8/jre/lib/rt.jar!/sun/nio/ch/AsynchronousChannelGroupImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1501">
+              <caret line="111" selection-start-line="111" selection-end-line="111" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/1.8/jdk8/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10849">
+              <caret line="623" selection-start-line="623" selection-end-line="623" />
+              <folding>
+                <element signature="e#25341#25342#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/handler/AbsTspBsHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="31" column="34" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcc-dataplatform-client/src/main/java/com/acv/cloud/client/handler/TspClientAioHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/t-io/tio-core/3.1.0.v20180705-RELEASE/tio-core-3.1.0.v20180705-RELEASE.jar!/org/tio/client/intf/ClientAioHandler.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcc-dataplatform-client/src/main/java/com/acv/cloud/client/TspClientStarter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="779">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>收到登录响应消息</find>
+      <find>TspAbsAioHandler</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/demo/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/packets/base/BaseBody.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/intf/AbsTspBsHandler.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/Type.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/acv/cloud/GateWayAppliction.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/acv/cloud/GateWayApplication.java" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/handler/AbsTspBsHandler.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/TspSessionContext.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-client/pom.xml" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-client/src/main/java/com/acv/cloud/client/handler/LoginRespHandler.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-client/src/main/java/com/acv/cloud/client/handler/TspClientAioHandler.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/java/com/acv/cloud/server/listener/TspServerAioListener.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/packets/LoginReqBody.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/java/com/acv/cloud/server/handler/LoginReqHandler.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/packets/TspPacket.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-client/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/Const.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/packets/HeartbeatReqBody.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-client/src/main/java/com/acv/cloud/client/handler/HeartbeatReqHandler.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-client/src/main/java/com/acv/cloud/client/listener/TspClientAioListener.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/java/com/acv/cloud/server/TspServerStarter.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-client/src/main/java/com/acv/cloud/client/test/LoginTest.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-client/src/main/java/com/acv/cloud/AtccDataplatformClientApplication.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/java/com/acv/cloud/server/handler/HeartbeatReqHandler.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/packets/LoginRespBody.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/java/com/acv/cloud/server/handler/TspServerAioHandler.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/intf/TspBsHandlerIntf.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-client/src/main/java/com/acv/cloud/client/TspClientStarter.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/handler/TspAbsAioHandler.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatfom-common/pom.xml" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-gatway/pom.xml" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/java/com/acv/cloud/AtccDataplatformGatwayApplication.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-client/src/test/java/com/acv/cloud/IoSocketClient.java" />
+        <option value="$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/java/com/acv/cloud/server/NettyServer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="atcc-dataplatfom-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="atcc-dataplatfom-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="atcc-dataplatform" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="atcc-dataplatform-gatway" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="atcc-dataplatform-gatway" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="82" />
+    <option name="y" value="-11" />
+    <option name="width" value="1850" />
+    <option name="height" value="1103" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="atcc-dataplatform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcc-dataplatform" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556007370399" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../atcc-serviceplatform/master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.36551723" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.acv.cloud.server.handler" />
+      <recent name="com.acv.cloud.common.packets" />
+      <recent name="com.acv.cloud.common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaWorkSpaces\atcc-data-platform\atcc-dataplatform-gatway\src\main\java\com\acv\cloud" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TspClientStarter">
+    <configuration name="AtccDataplatformClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.acv.cloud.AtccDataplatformClientApplication" />
+      <module name="atcc-dataplatform-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.acv.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IoSocketClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.acv.cloud.IoSocketClient" />
+      <module name="atcc-dataplatform-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.acv.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TspClientStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.acv.cloud.client.TspClientStarter" />
+      <module name="atcc-dataplatform-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.acv.cloud.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AtccDataplatformClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcc-dataplatform-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.acv.cloud.AtccDataplatformClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AtccDataplatformGatwayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcc-dataplatform-gatway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.acv.cloud.AtccDataplatformGatwayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.acv.cloud.GateWayAppliction" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.AtccDataplatformGatwayApplication" />
+      <item itemvalue="Spring Boot.AtccDataplatformClientApplication" />
+      <item itemvalue="Application.AtccDataplatformClientApplication" />
+      <item itemvalue="Application.TspClientStarter" />
+      <item itemvalue="Application.IoSocketClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TspClientStarter" />
+        <item itemvalue="Application.IoSocketClient" />
+        <item itemvalue="Application.AtccDataplatformClientApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68937421-775b-453e-84bb-0c224261dbd3" name="Default Changelist" comment="" />
+      <created>1555399454108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555399454108</updated>
+      <workItem from="1555399459014" duration="26501000" />
+      <workItem from="1555494933138" duration="750000" />
+      <workItem from="1555549929521" duration="16062000" />
+      <workItem from="1556010585503" duration="3744000" />
+      <workItem from="1557018279031" duration="2355000" />
+    </task>
+    <task id="LOCAL-00001" summary="Netty client and server">
+      <created>1556011453218</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556011453218</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="49412000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="-7" width="1233" height="735" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.3106383" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.22875817" />
+      <window_info anchor="bottom" id="Java Enterprise" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="6" weight="0.32969433" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.31053203" />
+      <window_info active="true" anchor="bottom" id="Debug" order="10" visible="true" weight="0.6096346" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.26872963" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Bean Validation" order="5" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Netty client and server" />
+    <option name="LAST_COMMIT_MESSAGE" value="Netty client and server" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/handler/TspAbsAioHandler.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/handler/TspAbsAioHandler.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/atcc-dataplatform-client/src/main/java/com/acv/cloud/client/TspClientStarter.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/acv/cloud/GateWayApplication.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.8.0-beta2/slf4j-api-1.8.0-beta2.jar!/org/slf4j/Logger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar!/org/slf4j/Logger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/packets/base/BaseBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/java/com/acv/cloud/server/handler/Lgin.java" />
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/packets/LoginReqBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/TspSessionContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/Const.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/packets/HeartbeatReqBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/java/com/acv/cloud/server/listener/TspServerAioListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/Type.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-client/src/main/java/com/acv/cloud/client/test/LoginTest.java" />
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-client/src/main/java/com/acv/cloud/AtccDataplatformClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/java/com/acv/cloud/server/handler/HeartbeatReqHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/intf/TspBsHandlerIntf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-client/src/main/java/com/acv/cloud/client/listener/TspClientAioListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="110" selection-start-line="19" selection-start-column="110" selection-end-line="19" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-client/src/main/java/com/acv/cloud/client/handler/HeartbeatReqHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/packets/LoginRespBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-client/src/main/java/com/acv/cloud/client/handler/LoginRespHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="29" column="67" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/t-io/tio-core/3.1.0.v20180705-RELEASE/tio-core-3.1.0.v20180705-RELEASE.jar!/org/tio/core/intf/Packet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1152">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/java/com/acv/cloud/server/TspServerStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/java/com/acv/cloud/server/handler/TspServerAioHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatfom-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-transport/4.1.34.Final/netty-transport-4.1.34.Final.jar!/io/netty/channel/SimpleChannelInboundHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/packets/TspPacket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="1" column="32" lean-forward="true" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/1.8/jdk8/src.zip!/java/nio/ByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4484">
+          <caret line="261" column="22" selection-start-line="261" selection-start-column="22" selection-end-line="261" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-gatway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/java/com/acv/cloud/AtccDataplatformGatwayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-client/src/test/java/com/acv/cloud/IoSocketClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/t-io/tio-core/3.1.0.v20180705-RELEASE/tio-core-3.1.0.v20180705-RELEASE.jar!/org/tio/core/task/SendRunnable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/t-io/tio-core/3.1.0.v20180705-RELEASE/tio-core-3.1.0.v20180705-RELEASE.jar!/org/tio/core/intf/AioHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/java/com/acv/cloud/server/handler/LoginReqHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="45" column="15" lean-forward="true" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/t-io/tio-core/3.1.0.v20180705-RELEASE/tio-core-3.1.0.v20180705-RELEASE.jar!/org/tio/core/ChannelContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/t-io/tio-utils/3.1.0.v20180705-RELEASE/tio-utils-3.1.0.v20180705-RELEASE.jar!/org/tio/utils/thread/pool/SynThreadPoolExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/t-io/tio-core/3.1.0.v20180705-RELEASE/tio-core-3.1.0.v20180705-RELEASE.jar!/org/tio/core/Tio.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="324" column="92" lean-forward="true" selection-start-line="324" selection-start-column="92" selection-end-line="324" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/t-io/tio-core/3.1.0.v20180705-RELEASE/tio-core-3.1.0.v20180705-RELEASE.jar!/org/tio/client/ClientChannelContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/t-io/tio-core/3.1.0.v20180705-RELEASE/tio-core-3.1.0.v20180705-RELEASE.jar!/org/tio/core/task/DecodeRunnable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2660">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/handler/TspAbsAioHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/t-io/tio-core/3.1.0.v20180705-RELEASE/tio-core-3.1.0.v20180705-RELEASE.jar!/org/tio/core/ReadCompletionHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1729">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/1.8/jdk8/jre/lib/rt.jar!/sun/nio/ch/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/1.8/jdk8/jre/lib/rt.jar!/sun/nio/ch/AsynchronousChannelGroupImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/1.8/jdk8/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10849">
+          <caret line="623" selection-start-line="623" selection-end-line="623" />
+          <folding>
+            <element signature="e#25341#25342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatfom-common/src/main/java/com/acv/cloud/common/handler/AbsTspBsHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-client/src/main/java/com/acv/cloud/client/handler/TspClientAioHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/t-io/tio-core/3.1.0.v20180705-RELEASE/tio-core-3.1.0.v20180705-RELEASE.jar!/org/tio/client/intf/ClientAioHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-client/src/main/java/com/acv/cloud/client/TspClientStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcc-dataplatform-gatway/src/main/java/com/acv/cloud/server/NettyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+          <folding>
+            <element signature="e#871#1433#0" expanded="true" />
+            <element signature="e#1432#1433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.36551723" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.36551723" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>atcc-dataplatform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.36551723" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.36551723" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
